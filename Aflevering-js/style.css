@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+}
+.nyStil{
+    background-color: yellow;
+}
+
+.nyrap{
+    text-decoration: underline;
+    color: coral;
+}
+
+.trykher1{
+    display: block;
+}
+
+.trykher2{
+    display: none;
+}
+
+.trykher3{
+    display: none;
+}
+
+.trykher4{
+    display: none;
+}
+
+.trykher5{
+    display: none;
+}
+
+.trykher6{
+    display: block;
+}
+
+.trykher7{
+    display: block;
+}
+
+.skrivher{
+    display: none;
+}
+
+.nyknap{
+    display: block;
+}
